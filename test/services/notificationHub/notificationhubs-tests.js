@@ -41,7 +41,7 @@ describe('Notification hubs', function () {
   before(function (done) {
     sandbox = sinon.sandbox.create();
 
-    service = azureSb.createServiceBusService()
+    service = azure.createNotificationHubManagementService()
       .withFilter(new azure.ExponentialRetryPolicyFilter());
 
     suiteUtil = notificationhubstestutil.createNotificationHubsTestUtils(service, testPrefix);
