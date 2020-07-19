@@ -60,6 +60,7 @@
     "azure-gallery": "^2.0.0-pre.20",
     "azure-keyvault": "^3.0.4",
     "azure-monitoring": "^0.10.6",
+    "azure-notificationhub": "^0.1.0",
     "azure-sb": "^0.10.6",
     "azure-scheduler": "^0.10.4",
     "azure-storage": "^2.9.0-preview",

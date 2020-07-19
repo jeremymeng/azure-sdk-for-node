@@ -1,0 +1,12 @@
+# commenting servicebus and nh tests due to failures
+services/notificationHub/apnsservice-tests.js
+services/notificationHub/apnsservice-registrations-tests.js
+services/notificationHub/gcmservice-tests.js
+services/notificationHub/gcmservice-registrations-tests.js
+services/notificationHub/mpnsservice-tests.js
+services/notificationHub/mpnsservice-registrations-tests.js
+services/notificationHub/notificationhubs-tests.js
+services/notificationHub/wnsservice-tests.js
+services/notificationHub/wnsservice-registrations-tests.js
+services/notificationHub/wrapservice-tests.js
+services/notificationHub/installation-management-tests.js
